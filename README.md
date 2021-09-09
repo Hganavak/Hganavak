@@ -1,5 +1,5 @@
 ### 👋  &nbsp; Hi, I'm Sam Kavanagh
-I'm a web developer currently working as the **Head of Technology** at [Green Chilli Design](http://gcd.io), where I am in charge of the development of all applications for one of [New Zealand's largest investment companies](https://milfordasset.com/) (currently **managing over $11NZD billion** in assets). I have a **PhD in Computer Science** but my real passion is **front-end web development**.
+I'm a web developer currently working as the **Head of Technology** at [Green Chilli Design](http://gcd.io), where I am in charge of the development of all applications for one of [New Zealand's largest investment companies](https://milfordasset.com/) (currently **managing over $13NZD billion** in assets). I have a **PhD in Computer Science** but my real passion is **front-end web development**.
 
 
 - 🔭 &nbsp; I’m currently working on: leading the development of a suite of investment applications which have implementations for: the web (Angular), Android, and iOS.
