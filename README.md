@@ -27,4 +27,4 @@ View all posts at [tofu.dev/blog](tofu.dev/blog)
 [My Site](https://tofu.dev) • [Email](mailto:hganavak@gmail.com) • [Twitter](https://twitter.com/tofudotdev) • [LinkedIn](https://www.linkedin.com/in/sam-kavanagh-4913a6179/) • [Google Scholar Profile](https://scholar.google.com/citations?user=Q7b3L_8AAAAJ&hl=en&oi=ao) • [More About Me](https://tofu.dev/about)
 
 ---
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hganavak&hide=contribs,prs&count_private=true&theme=prussian&hide_border=false&include_all_commits=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hganavak&count_private=true&hide=contribs&theme=prussian&hide_border=false&include_all_commits=true)
