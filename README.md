@@ -1,5 +1,5 @@
 ### 👋  &nbsp; Hi, I'm Sam Kavanagh
-I'm a web developer currently working as the **Chief Technology Officer (CTO)** at [Green Chilli Design](http://gcd.io), where I am in charge of the development of all applications for one of [New Zealand's largest investment companies](https://milfordasset.com/) (currently **managing over $13NZD billion** in assets). I have a **PhD in Computer Science** but my real passion is **front-end web development**.
+I'm a web developer currently working as the **Chief Technology Officer (CTO)** at [Green Chilli Design](http://gcd.io), where I am in charge of the development of all applications for one of [New Zealand's largest investment companies](https://milfordasset.com/) (currently **managing over $15NZD billion** in assets). I have a **PhD in Computer Science** but my real passion is **front-end web development**.
 
 
 - 🔭 &nbsp; I’m currently working on: leading the development of a suite of investment applications which have implementations for: the web (Angular), Android, and iOS.
@@ -26,3 +26,5 @@ View all posts at [tofu.dev/blog](tofu.dev/blog)
 <a href="https://tofu.dev"><img src="https://github.com/Hganavak/tofu.dev/blob/master/src/favicon-16x16.png" align="right" alt="Tofu.dev"></a>
 [My Site](https://tofu.dev) • [Email](mailto:hganavak@gmail.com) • [Twitter](https://twitter.com/tofudotdev) • [LinkedIn](https://www.linkedin.com/in/sam-kavanagh-4913a6179/) • [Google Scholar Profile](https://scholar.google.com/citations?user=Q7b3L_8AAAAJ&hl=en&oi=ao) • [More About Me](https://tofu.dev/about)
 
+---
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hganavak&hide=contribs,prs&count_private=true&theme=prussian&hide_border=false&include_all_commits=true)
