@@ -7,8 +7,9 @@ I'm a web developer currently working as the **Chief Technology Officer (CTO)** 
 - 📫 &nbsp; How to reach me: [tofu.dev/contact](https://tofu.dev/contact)
 
 ### 🚀 &nbsp; Projects I've Led in the Past
+- 🏦  &nbsp; [Milford Portal](https://portal.milfordasset.com/): An Angular project deployed to Azure used to manage over investment funds for [Milford Asset Management](https://milfordasset.com).
 - 🎨  &nbsp; [ResearchHub Web](https://github.com/hganavak/hub-stack/tree/master/research-hub-web): An Angular project deployed to AWS S3/CloudFront and using Cognito for authentication.
-- 🛡 &nbsp; [CeR GraphQL](https://github.com/hganavak/hub-stack/tree/master/cer-graphql): An Apollo GraphQL server. Extends a remote GraphQL schema. Docker, AWS ECR/Fargate.
+- 🛡  &nbsp; [CeR GraphQL](https://github.com/hganavak/hub-stack/tree/master/cer-graphql): An Apollo GraphQL server. Extends a remote GraphQL schema. Docker, AWS ECR/Fargate.
 - 📩  &nbsp; [Serverless Now](https://github.com/hganavak/hub-stack/tree/master/serverless-now): A Node server that generates tickets and sends them to ServiceNow.  Lambda function on AWS.
 - 🤖  &nbsp; [Monorepo DevOps](https://github.com/hganavak/hub-stack/blob/master/Jenkinsfile): A CI/CD Jenkins job I am created to conditionally build/test/deploy multiple AWS services.
 
@@ -26,5 +27,3 @@ View all posts at [tofu.dev/blog](tofu.dev/blog)
 <a href="https://tofu.dev"><img src="https://github.com/Hganavak/tofu.dev/blob/master/src/favicon-16x16.png" align="right" alt="Tofu.dev"></a>
 [My Site](https://tofu.dev) • [Email](mailto:hganavak@gmail.com) • [Twitter](https://twitter.com/tofudotdev) • [LinkedIn](https://www.linkedin.com/in/sam-kavanagh-4913a6179/) • [Google Scholar Profile](https://scholar.google.com/citations?user=Q7b3L_8AAAAJ&hl=en&oi=ao) • [More About Me](https://tofu.dev/about)
 
----
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hganavak&count_private=true&hide=contribs&theme=prussian&hide_border=false&include_all_commits=true)
